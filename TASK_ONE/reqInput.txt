@@ -1,0 +1,6 @@
+[
+    {"letter.txt":"Richard"},
+    {"paper.pdf":"Jack"},
+    {"test.py":"Johnny"},
+    {"numbers.docx":"Jack"}
+]
